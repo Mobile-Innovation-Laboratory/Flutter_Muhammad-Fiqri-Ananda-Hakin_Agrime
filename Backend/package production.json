@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend For Motion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saymynamenow/AgriMe.git"
+  },
+  "author": "FiqriAnanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saymynamenow/AgriMe/issues"
+  },
+  "homepage": "https://github.com/saymynamenow/AgriMe#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "firebase-admin": "^13.1.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}

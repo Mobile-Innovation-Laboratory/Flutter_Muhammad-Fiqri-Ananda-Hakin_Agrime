@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "611366637293",
+    "project_id": "agrime-f4e39",
+    "storage_bucket": "agrime-f4e39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611366637293:android:442d61fe8f413199e906e4",
+        "android_client_info": {
+          "package_name": "com.example.agrime_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611366637293-k8nhq9ajqq1jjr6od4nq6mbtp96m9vnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWw_ZCKyaitgxf08zFTAOdGT9pBiMD9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611366637293-k8nhq9ajqq1jjr6od4nq6mbtp96m9vnp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611366637293-oojfi0kggbi99s1386q30ccndf39euns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agrimeApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
