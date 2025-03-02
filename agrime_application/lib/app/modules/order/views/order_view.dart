@@ -86,7 +86,6 @@ class OrderView extends GetView<OrderController> {
             return const CustomEmpty();
           }
 
-          // Jika ada data, tampilkan tombol checkout
           return Padding(
             padding: const EdgeInsets.all(16.0),
             child: SizedBox(
