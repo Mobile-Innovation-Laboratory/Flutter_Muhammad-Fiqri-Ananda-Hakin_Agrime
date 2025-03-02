@@ -41,3 +41,5 @@ Frontend Setup :
      4. And pastein url variable in constanta
 3. And run the project
 
+
+NB : MAAF UI NYA KURANG BAGUS SOALNYA KURANGNYA REFERENSI YANG SAYA DAPAT :(
